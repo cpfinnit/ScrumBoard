@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>.org.eclipse.jdt.core.external.folders</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>.link0</name>
+			<type>2</type>
+			<location>/Users/jimmyhunter/ggts-3.6.2.RELEASE/plugins/org.grails.ide.eclipse.resources_3.6.2.201410090838-RELEASE/dsl-support</location>
+		</link>
+		<link>
+			<name>.link1</name>
+			<type>2</type>
+			<location>/Users/jimmyhunter/.gvm/grails/2.4.4/scripts</location>
+		</link>
+		<link>
+			<name>.link2</name>
+			<type>2</type>
+			<location>/Users/jimmyhunter/Documents/Workspaces/ScrumBoard/ScrumBoard/ScrumBoard/target/work/plugin-classes</location>
+		</link>
+	</linkedResources>
+</projectDescription>
